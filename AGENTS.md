@@ -30,3 +30,4 @@
 以下の Skills は必ず読みなさい。
 
 - git-rules
+- tdd
